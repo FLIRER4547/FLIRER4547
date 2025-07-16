@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Fernando Mariano 
- *Estudante de programação, atualmente estudando Python.
- *Aprendendo a criar projetos reais e aplicações funcionais.
+ 💻*Estudante de programação, atualmente estudando Python.
+ 📓*Aprendendo a criar projetos reais e aplicações funcionais.
 
 ---
 
