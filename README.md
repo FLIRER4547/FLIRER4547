@@ -13,9 +13,9 @@
 ---
 
 ### 📂 Principais projetos
-- **Aprendendo‑Github**: repositório inicial com scripts em Python ajudando a entender o Git e GitHub :contentReference[oaicite:1]{index=1}  
-- **Projetos.py**: coleção de scripts úteis em Python, com geradores de CPF e outros utilitários :contentReference[oaicite:2]{index=2}  
-- **Aprendendo‑Python**: exercícios e prática contínua de Python (mais de 30 arquivos de código) :contentReference[oaicite:3]{index=3}  
+- Aprendendo‑Github
+- Projetos.py
+- Aprendendo‑Python  
 
 ---
 
