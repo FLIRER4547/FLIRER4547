@@ -15,7 +15,7 @@
 ### 📂 Principais projetos
 - https://github.com/FLIRER4547/Aprendendo‑Github
 - https://github.com/FLIRER4547/Projetos.py
-- https://github.com/FLIRER4547/Aprendendo‑Python  
+- https://github.com/FLIRER4547/Aprendendo-Python
 
 ---
 
