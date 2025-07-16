@@ -13,12 +13,6 @@
 
 ---
 
-### 📂 Principais projetos
-- https://github.com/FLIRER4547/Projetos.py
-- https://github.com/FLIRER4547/Aprendendo-Python
-
----
-
 ### 📊 Estatísticas GitHub
 <div align="center">
 
@@ -26,5 +20,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIRER4547&layout=compact&theme=tokyonight)
 
 </div>
+
+---
+
+### 📂 Principais projetos
+- https://github.com/FLIRER4547/Projetos.py
+- https://github.com/FLIRER4547/Aprendendo-Python
 
 ---
