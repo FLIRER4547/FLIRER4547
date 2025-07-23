@@ -16,7 +16,7 @@ Atualmente estou estudando **lógica de programação** e pretendo evoluir cada 
 
 ### 📂 Projetos em destaque:
 
-- 🧠 **CS50** – primeiros programas em C  
+- 🧠 **Programming Logic** – primeiros programas em C  
 - 🐍 **Python Scripts** – automatizações e lógica básica  
 - 🌐 **HTML + CSS** – páginas simples com JS básico
 
