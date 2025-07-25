@@ -1,40 +1,48 @@
-### 👋 Olá! Eu sou o FLIRER4547
+<h1 align="center">Olá! Eu sou o FLIRER4547 👨‍💻</h1>
 
-Atualmente estou estudando **lógica de programação** e pretendo evoluir cada vez mais até me tornar um desenvolvedor **Full‑Stack**. 🚀
-
----
-
-### 💻 Tecnologias que estudo:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">Apaixonado por tecnologia, programação e desafios criativos. Bem-vindo ao meu universo no GitHub!</p>
 
 ---
 
-### 📂 Projetos em destaque:
-
-- 🧠 **Programming Logic** – primeiros programas em C  
-- 🐍 **Python Scripts** – automatizações e lógica básica  
-- 🌐 **HTML + CSS** – páginas simples com JS básico
-
----
-
-### 📊 Linguagens mais usadas:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLIRER4547&layout=compact&langs_count=8&theme=radical)
+## 🧠 Sobre mim
+ 
+- Buscando conhecimento sólido em lógica, algoritmos e linguagens  
+- Explorando projetos práticos e novos aprendizados  
+- Aberto a conexões, colaborações e evolução constante 🚀
 
 ---
 
-### 📈 Em breve:
+## 💻 Tecnologias que uso
 
-- Frameworks como **React** e **Node.js**  
-- Banco de dados e API  
-- Projetos completos com frontend + backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+</p>
 
 ---
 
-> “Todo expert já foi um iniciante. Continuar é o que transforma.”  
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FLIRER4547&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLIRER4547&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+- GitHub: [github.com/FLIRER4547](https://github.com/FLIRER4547)  
+- Sempre pronto para aprender, ajudar e crescer com a comunidade 💬
+
+---
+
+<p align="center"><b>“O importante é não parar de questionar.” – Albert Einstein</b></p>
 
