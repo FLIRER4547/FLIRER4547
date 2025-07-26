@@ -24,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-</p>
+  &nbsp;
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg width="40" title="GIT"/>
 
 ---
 
