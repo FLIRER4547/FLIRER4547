@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o FLIRER4547 👨‍💻</h1>
+<h1 align="center">Olá! Eu sou o Fernando Mariano 👨‍💻</h1>
 
 <p align="center">Apaixonado por tecnologia, programação e desafios criativos. Bem-vindo ao meu universo no GitHub!</p>
 
