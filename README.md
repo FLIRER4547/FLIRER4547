@@ -1,11 +1,13 @@
 <h1 align="center">Olá! Eu sou o Fernando Mariano 👨‍💻</h1>
 
-<p align="center">Apaixonado por tecnologia, programação e desafios criativos. Bem-vindo ao meu universo no GitHub!</p>
-
+<p align="center">
+Apaixonado por tecnologia, programação e desafios criativos.
+Bem-vindo ao meu universo no GitHub!
+</p>
 
 ---
 
-##  Tecnologias que uso
+## 🚀 Tecnologias que uso
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -18,23 +20,27 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   &nbsp;
-  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg width="40" title="GIT"/>
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FLIRER4547&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLIRER4547&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
 ---
 
-##  Contato
-[email](fernandomarianosilva613@gmail.com)
-<a href="mailto:fernandomarianosilva613@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FLIRER4547&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FLIRER4547&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:fernandomarianosilva613@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 </a>
 
 ---
